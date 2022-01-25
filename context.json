@@ -15,7 +15,7 @@
           "@id": "http://www.w3.org/ns/prov#startedAtTime",
           "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
-        "parameters": {
+        "startedAtTime": {
             "@id": "http://www.w3.org/ns/prov#startedAtTime",
             "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
         }
