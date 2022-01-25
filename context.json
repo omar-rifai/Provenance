@@ -11,10 +11,7 @@
         "RRID": "http://scicrunch.org/resolver/",
         "uuid": "https://www.uuidgenerator.net/",
         "label": "http://www.w3.org/2000/01/rdf-schema#label",
-        "specializationOf" : {
-          "@id": "http://www.w3.org/ns/prov#specializationOf",
-          "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
-        },
+        "specializationOf" : "http://www.w3.org/ns/prov#specializationOf",
         "startedAtTime": {
             "@id": "http://www.w3.org/ns/prov#startedAtTime",
             "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
