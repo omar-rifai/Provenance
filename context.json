@@ -15,6 +15,10 @@
           "@id": "http://www.w3.org/ns/prov#startedAtTime",
           "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
+        "parameters": {
+            "@id": "http://www.w3.org/ns/prov#endedAtTime",
+            "aid": "http://www.w3.org/2001/XMLSchema#List"
+        }
         "endedAtTime" : {
           "@id": "http://www.w3.org/ns/prov#endedAtTime",
           "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
