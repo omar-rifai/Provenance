@@ -11,10 +11,10 @@
         "RRID": "http://scicrunch.org/resolver/",
         "uuid": "https://www.uuidgenerator.net/",
         "label": "http://www.w3.org/2000/01/rdf-schema#label",
-        "startedAtTime": {
-            "@id": "http://www.w3.org/ns/prov#startedAtTime",
-            "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
-        }
+        "startedAtTime" : {
+          "@id": "http://www.w3.org/ns/prov#startedAtTime",
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
         "endedAtTime" : {
           "@id": "http://www.w3.org/ns/prov#endedAtTime",
           "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
