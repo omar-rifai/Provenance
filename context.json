@@ -15,10 +15,6 @@
           "@id": "http://www.w3.org/ns/prov#startedAtTime",
           "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
-        "command":{
-            "@id": "http://www.semanticweb.org/concise#ParameterList",
-            "@type": "http://purl.org/co/List"
-        }
         "endedAtTime" : {
           "@id": "http://www.w3.org/ns/prov#endedAtTime",
           "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
